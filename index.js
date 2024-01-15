@@ -1,8 +1,8 @@
 const pinataSDK = require('@pinata/sdk');
 
-
-const pinataApiKey = '144146c05e2bc208f36e';
-const pinataApiSecret = 'a561092c66ff131cee860961cee6ccc14b99c97e4b5caebcb5a22dbb23e9a6b5';
+// use in .env file
+const pinataApiKey = 'api-key';
+const pinataApiSecret = 'pinata-api-secret-key';
 
 const pinata = new pinataSDK(pinataApiKey, pinataApiSecret);
 
