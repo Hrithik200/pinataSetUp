@@ -9,8 +9,8 @@ const pinata = new pinataSDK(pinataApiKey, pinataApiSecret);
 
 // Your JSON object
 const customTokenData = {
-    "name": "Monish Custom Token",
-    "symbol": "MCT",
+    "name": "Hrithik Custom Token",
+    "symbol": "HCT",
     "description": "Created for demo purpose ;)",
     "image": "https://pink-accused-giraffe-878.mypinata.cloud/ipfs/QmX3cUdaBGE9bgcAJds4pMaW5Ef7ojLP61fJT48XkgC7V6"
 };
